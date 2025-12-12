@@ -1,0 +1,77 @@
+Introduction
+
+This dashboard provides a comprehensive overview of Zepto’s retail sales performance across multiple cities and product categories. 
+It consolidates key metrics such as total orders, total revenue, best-performing products, and top cities.
+
+The visualization is structured to help users quickly identify high-impact areas and understand product-level contributions. 
+Sales distribution across cities highlights regional demand strengths and opportunities. Category-level performance reveals which product groups drive the most value. 
+The dashboard also includes a breakdown of influencer impact on sales, showing how marketing efforts translate to revenue. 
+Discount patterns across products help explain variations in customer purchasing behavior. 
+The layout supports fast, data-driven decision-making for pricing, promotions, and inventory planning. 
+Both high-level KPIs and detailed drilldowns provide a balanced view of performance. Users can easily compare product performance across categories and cities. 
+The color theme ensures clear visibility of key insights and trends. Interactive slicers allow customization based on product or category selections. 
+Order distribution is displayed geographically to highlight market penetration.
+
+Overall, the dashboard serves as a strategic tool for monitoring sales trends. It enables stakeholders to evaluate efficiency, customer demand, and the impact of marketing strategies.
+
+Key Skills
+
+Data Analysis: Extracting meaningful insights from sales and product performance data.
+Business Intelligence: Designing interactive dashboards for real-time tracking and strategic decision-making.
+Performance Benchmarking: Identifying top-performing cities and product  for targeted interventions.                                                            
+Methodology
+
+Data:  The data was collected from Kaggle.
+Data Collection: Compiling sales data from multiple sources, including cities and product categories.
+Data Visualization: Creating an intuitive dashboard to present key metrics and trends.
+Trend Analysis: Evaluating patterns in sales, products, and city performance.
+Observation
+
+Coca-Cola remains the best-selling product with the highest order volume.
+
+Hyderabad generates the highest revenue among all cities displayed.
+
+Snacks and Beverages categories dominate overall category performance.
+
+Influencer-backed products contribute significantly to total revenue.
+
+Products with moderate discounts show higher order counts compared to non-discounted items.
+
+Bangalore and Mumbai demonstrate strong order volumes despite being secondary revenue contributors.
+
+The product sales performance chart indicates a close competition among top FMCG products.
+
+Some categories like Dairy and Confectionery show lower revenue contributions.
+
+City-wise treemap shows clear variations in market strength across regions.
+
+Sales and revenue patterns suggest strong alignment with population density and urban consumer trends.
+
+Recommendations
+
+Increase inventory for top-performing products in major cities to meet high demand.
+
+Expand influencer campaigns for categories showing strong growth potential.
+
+Optimize discount strategies to improve performance of lower-selling categories.
+
+Introduce targeted city-based promotions for regions with lower order volume.
+
+Enhance product visibility for slower-moving items through homepage placements.
+
+Strengthen partnerships with top-performing FMCG brands to ensure consistent stock availability.
+
+Use predictive analytics to forecast demand spikes in key cities.
+
+Re-evaluate product pricing in categories with lower revenue contributions.
+
+Conduct category-specific marketing to boost sales of Dairy and Confectionery.
+
+Explore opportunities in secondary markets where order volume is rising gradually.
+
+Conclusion
+
+The dashboard highlights strong overall performance across major cities and key product categories. Top-selling products and well-known brands continue to drive a majority of revenue. 
+Regional insights reveal clear opportunities for targeted marketing and inventory optimization. Influencer campaigns show measurable impact and should be strategically scaled. 
+Discount-driven behavior suggests customers respond positively to value offerings. Category trends reinforce the importance of maintaining a strong FMCG product portfolio. 
+The analysis provides a clear roadmap for enhancing sales performance and expanding market reach.
